@@ -42,8 +42,10 @@
               <configuration>
                  <url>http://bviswanath:8001/manager/text</url>
                  <server>tomcatdeployserver</server>
+                 <!-- 
                  <username>test</username>
                  <password>viswa@123</password>
+                  -->
               </configuration>
               
             </plugin>
