@@ -41,9 +41,9 @@
                 <version>2.2</version>
               <configuration>
                  <url>http://bviswanath:8001/manager/text</url>
-                 <server>tomcatdeployserver</server>
+                 <server>tcdeployserver</server>
                  <!-- 
-                 <username>test</username>
+                 <username>viswa</username>
                  <password>viswa@123</password>
                   -->
               </configuration>
