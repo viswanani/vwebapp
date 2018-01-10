@@ -4,7 +4,7 @@
   <groupId>com.ibm.services</groupId>
   <artifactId>vwebapp</artifactId>
   <packaging>war</packaging>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.1</version>
   <name>vwebapp Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
@@ -41,8 +41,11 @@
                 <version>2.2</version>
               <configuration>
                  <url>http://bviswanath:8001/manager/text</url>
-                 <username>test</username>
+                 <server>tcdeployserver</server>
+                 <!-- 
+                 <username>viswa</username>
                  <password>viswa@123</password>
+                  -->
               </configuration>
               
             </plugin>
